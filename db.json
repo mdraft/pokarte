@@ -13,7 +13,7 @@
       "price": [495, 795, 935],
       "category": 1,
       "backgr": "#b50c16",
-      "rating": 4
+      "rating": 5
     },
     {
       "id": 1,
@@ -67,7 +67,7 @@
         "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/7d5502e6-9c13-46e4-8bae-19876e3eb4b6.jpg",
         "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/634d8d19-617d-4379-a975-1a20bfe384cc.jpg"
       ],
-      "name": "Кисло-сладкий цыпленок",
+      "name": "МАГНИТ",
       "types": ["Стандартная" ,"Тонкая"],
       "sizes": [25, 30, 35],
       "price": [395, 625, 775],
@@ -108,13 +108,13 @@
         "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
         "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/284c2d7e-d635-41fa-b8a3-3fe6bc6e7399.jpg"
       ],
-      "name": "Пепперони",
+      "name": "ПЯТЕРОЧКА",
       "types": ["Стандартная" ,"Тонкая"],
       "sizes": [25, 30, 35],
       "price": [300, 450, 590],
       "category": 1,
       "backgr": "#7b0209",
-      "rating": 9
+      "rating": 2
     },
     {
       "id": 8,
