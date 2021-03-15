@@ -2,10 +2,10 @@
   "pizzaList": [
     {
       "id": 0,
-      "cardlogo": "http://xn--80aknpejo.xn--p1ai/base/ok/oklogo.svg",
+      "cardlogo": "http://xn--80aknpejo.xn--p1ai/base/ok/logo.svg",
       "imageUrl": [
-        "http://xn--80aknpejo.xn--p1ai/base/ok/ok001.svg",
-        "http://xn--80aknpejo.xn--p1ai/base/ok/ok000.svg"
+        "http://xn--80aknpejo.xn--p1ai/base/ok/001.svg",
+        "http://xn--80aknpejo.xn--p1ai/base/ok/000.svg"
       ],
       "name": "ОКЕЙ",
       "types": ["чужая" ,"моя"],
@@ -105,11 +105,11 @@
       "id": 7,
       "cardlogo": "",
       "imageUrl": [
-        "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
-        "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/284c2d7e-d635-41fa-b8a3-3fe6bc6e7399.jpg"
+        "http://xn--80aknpejo.xn--p1ai/base/5/001.svg",
+        "http://xn--80aknpejo.xn--p1ai/base/5/001.svg"
       ],
       "name": "ПЯТЕРОЧКА",
-      "types": ["Стандартная" ,"Тонкая"],
+      "types": ["моя" ,"ольгина"],
       "sizes": [25, 30, 35],
       "price": [300, 450, 590],
       "category": 1,
